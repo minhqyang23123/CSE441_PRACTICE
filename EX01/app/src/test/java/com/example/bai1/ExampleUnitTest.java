@@ -1,4 +1,4 @@
-package com.example.ex01;
+package com.example.bai1;
 
 import org.junit.Test;
 
